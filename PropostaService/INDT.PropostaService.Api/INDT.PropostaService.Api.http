@@ -1,0 +1,6 @@
+@INDT.PropostaService.Api_HostAddress = http://localhost:5186
+
+GET {{INDT.PropostaService.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
